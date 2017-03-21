@@ -1,0 +1,13 @@
+pt-BR:
+  students:
+    index:
+      title: 'Estudante'
+      add: 'Adicionar estudante'
+    new:
+      title: 'Novo Cliente'
+    edit:
+      title: 'Editar Cliente'
+    create:
+      create_success: 'Sucesso'
+    form:
+      name: 'Deccrição'
